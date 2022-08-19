@@ -4,6 +4,4 @@ Web scraping was done in the IMDB website to scrape the movies and there respect
 ### Libraries
 - Beautiful soup 4
 - pandas
-### TODO
-- [X] Web Scraping to build dataset
-- [ ] Movie Recommendation system using Clustering
+
